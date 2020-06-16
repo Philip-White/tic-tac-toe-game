@@ -25,13 +25,9 @@ color: blue;
   background-color: white;
 }
 
-.george{
-  background-color: grey;
-  height: 
-}
-
 .status{
     font-family: 'Yatra One', cursive;
-color: black;
-  font-size: 20px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
 }
