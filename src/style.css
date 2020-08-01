@@ -1,14 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Yatra+One');
 
+body{
+  background-image: url("sharon-mccutcheon-8lnbXtxFGZw-unsplash.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
 .titles{
   text-align: center;
   font-family: 'Yatra One', cursive;
+  text-shadow: 0 0 8px green;
   font-size: 50px;
-  color: blue;
+  color: black;
+}
+
+.titles1{
+  text-align: center;
+  font-family: 'Yatra One', cursive;
+  text-shadow: 0 0 8px green;
+  font-size: 25px;
+  color: black;
 }
 
 .hey{
-  background-color: white;
   padding: 30px;
   margin-left: px;
   margin-right: px;
@@ -16,13 +31,14 @@
   margin-bottom: px;
   border-style: solid;
   font-family: 'Yatra One', cursive;
-color: blue;
+color: black;
   font-size: 20px;
+  background-color: #9bd179;
 }
 
 .now{
   padding: 15px;
-  background-color: white;
+  background-color: #9bd179;
 }
 
 .status{
@@ -30,4 +46,14 @@ color: blue;
     color: black;
     font-size: 20px;
     text-align: center;
+}
+
+/*
+Inside this is where changes are made specifically for desktop
+*/
+
+@media only screen and (min-width: 768px){
+img{
+  width: 40%;
+}
 }

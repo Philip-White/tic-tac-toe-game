@@ -57,11 +57,11 @@ if(j === array1.length){
 setTimeout ( function(){
 
                   $("#jon").fadeOut();
-  }, 2000) 
+  }, 10000) 
 setTimeout ( function(){
 
         $("#george").fadeIn();
-  }, 3000) 
+  }, 11000) 
         
       $("#one").html("");
       $("#two").html("");
@@ -98,10 +98,10 @@ $("#george").fadeOut();
   $("#view").fadeIn();
 setTimeout ( function(){
 $("#view").fadeOut();
-    }, 2000) 
+    }, 10000) 
 setTimeout ( function(){
   $("#george").fadeIn();
-}, 3000)
+}, 11000)
   
   
       $("#one").html("");
@@ -171,10 +171,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -241,10 +241,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -315,10 +315,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -382,10 +382,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -457,10 +457,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -526,10 +526,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -602,10 +602,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -676,10 +676,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
@@ -750,10 +750,10 @@ $("#george").fadeOut();
       $("#wins").fadeIn();
       setTimeout (function(){
 $("#wins").fadeOut();
-      }, 2000);
+      }, 10000);
       setTimeout (function(){
         $("#george").fadeIn();
-      }, 3000);
+      }, 11000);
       
       
       $("#one").html("");
